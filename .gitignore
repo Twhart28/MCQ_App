@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+.venv/
+screenshots/
+saved_tests/
+build/
+dist/
+*.spec
